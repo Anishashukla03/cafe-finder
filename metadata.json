@@ -1,0 +1,11 @@
+{
+  "name": "CafeFinder AI - Smart Cafe & Restaurant Discovery",
+  "description": "Intelligent AI-powered cafe and restaurant discovery platform with natural language search, Google Maps grounding, smart filters, and personalized place match.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
